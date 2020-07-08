@@ -1,0 +1,95 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    margin-top: 8%;
+    
+}
+
+.red-color
+{
+    color: brown;
+}
+.lightgreen
+{
+    color: lightseagreen;
+}
+.border-btn
+{
+    border-radius: 20px;
+    border: none;
+    background-color: lightseagreen;
+}
+.margin
+{
+    margin-left: 235px;
+    margin-right: 100px;
+}
+.background-color {
+    
+    background-color: lightslategrey;
+}
+ 
+.image img
+{
+    width: 40px;
+    border: black;
+}
+.logo
+{
+    width: 170px;
+    height: 80px;
+}
+.bg-light
+{
+    background-color: lightgray;
+}
+ 
+.icon-size
+{
+    width: 120px;
+    height: 140px;
+}
+.inner
+{
+    overflow: hidden;
+}
+.inner img
+{
+    transition: all 1.5s ease;
+}
+.inner:hover img
+{
+    transform: scale(1.5);
+}
+.man-image
+{
+    width: 15%;
+    height: 15%;
+}
+ul
+{
+    list-style-type: none;
+}
+.footer-bg
+{
+    background-color: #778899;
+    color: white;
+}
+.card
+{
+    margin: 20px;
+}
+.padding
+{
+    padding-bottom: 30px;
+     
+}
+.calender
+{
+    width: 30px;
+    height: 30px;
+}
